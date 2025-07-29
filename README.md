@@ -6,28 +6,41 @@ This project aims to design and develop an interactive dashboard that enables ci
 **1. Air Quality Overview**
 •	KPI Cards: Average AQI (4M), PM2.5 (2M), current AQI (Delhi: 519K), AQI bucket (“Good”).
 •	Trends & Visuals:
-o	AQI Trend Over Time (2015–2020)
-o	City-wise AQI bar chart (top: Ahmedabad, Delhi)
-o	AQI category donut chart (e.g., Good, Moderate)
-o	Geo-map of AQI distribution
-o	Time-based state color coding
-o	Pollutant composition trend: PM2.5, CO, NO₂, SO₂, O₃
+      o	AQI Trend Over Time (2015–2020)
+      
+      o	City-wise AQI bar chart (top: Ahmedabad, Delhi)
+      
+      o	AQI category donut chart (e.g., Good, Moderate)
+      
+      o	Geo-map of AQI distribution
+      
+      o	Time-based state color coding
+      
+      o	Pollutant composition trend: PM2.5, CO, NO₂, SO₂, O₃
 
 **2. Carbon Emissions**
 •	KPI Visuals:
-o	CO Trend Over Time by City (Mumbai, Talcher, etc.)
-o	Top 5 Polluted Cities by CO (Thiruvananthapuram: 2.37)
-o	Sectoral emissions table (Coal, Geothermal, Non-Biomass)
-o	CO-related Air Quality category donut chart
-o	Average CO level gauge: 7.31
+      o	CO Trend Over Time by City (Mumbai, Talcher, etc.)
+      
+      o	Top 5 Polluted Cities by CO (Thiruvananthapuram: 2.37)
+      
+      o	Sectoral emissions table (Coal, Geothermal, Non-Biomass)
+      
+      o	CO-related Air Quality category donut chart
+      
+      o	Average CO level gauge: 7.31
 
 **3. Waste Management**
 •	Interactive Elements:
-o	Waste processed by type and city (bar chart)
-o	Waste table by city and category
-o	Top performing cities (e.g., Visakhapatnam, Vadodara)
-o	Recycling rates with population density
-o	Top 3 Waste Types: Incineration, Composting, Recycling
+      o	Waste processed by type and city (bar chart)
+      
+      o	Waste table by city and category
+      
+      o	Top performing cities (e.g., Visakhapatnam, Vadodara)
+      
+      o	Recycling rates with population density
+      
+      o	Top 3 Waste Types: Incineration, Composting, Recycling
 ________________________________________
 **Insights:**
 
