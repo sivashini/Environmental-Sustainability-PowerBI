@@ -1,1 +1,2 @@
 # Power-bi
+This project aims to design and develop an interactive dashboard that enables city authorities and environmental agencies to monitor key sustainability indicators. The dashboard consolidates real-time environmental data—such as air quality, carbon emissions, waste management—into a single visual platform to support evidence-based decision-making and promote public environmental awareness.
