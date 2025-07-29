@@ -2,6 +2,7 @@
 This project aims to design and develop an interactive dashboard that enables city authorities and environmental agencies to monitor key sustainability indicators. The dashboard consolidates real-time environmental data—such as air quality, carbon emissions, waste management—into a single visual platform to support evidence-based decision-making and promote public environmental awareness.
 
 **Dashboard Highlights:**
+
 **1. Air Quality Overview**
 •	KPI Cards: Average AQI (4M), PM2.5 (2M), current AQI (Delhi: 519K), AQI bucket (“Good”).
 •	Trends & Visuals:
