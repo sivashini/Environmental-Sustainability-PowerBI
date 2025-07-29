@@ -30,11 +30,15 @@ o	Recycling rates with population density
 o	Top 3 Waste Types: Incineration, Composting, Recycling
 ________________________________________
 **Insights:**
+
 •	Air Quality: Some cities maintain consistently high AQI values (e.g., Ahmedabad, Delhi), though the overall trend improves from 2015 to 2020.
+
 •	Carbon Emissions: Power generation from coal contributes the most to CO emissions. Southern cities show higher average CO levels.
+
 •	Waste Management: Organic and plastic waste dominate in most cities; Visakhapatnam and Thiruvananthapuram lead in recycling efficiency.
 ________________________________________
 **Steps Followed:**
+
 1.	Data Extraction: Collected open government datasets and sensor feeds for AQI, emissions, and waste.
 2.	Data Transformation: Cleaned using Power Query and Excel; modeled relationships in Power BI.
 3.	Metrics & DAX: Created measures for averages, category distributions, and trends.
@@ -42,5 +46,6 @@ ________________________________________
 5.	Interactivity: Integrated slicers, filters, and tooltips to enhance user experience.
 ________________________________________
 **Outcome:**
+
 The final Power BI dashboard delivers actionable, real-time insights across three environmental domains—air quality, emissions, and waste. It enables policymakers, planners, and the public to make informed decisions, track sustainability goals, and advocate for cleaner, greener urban living.
 
